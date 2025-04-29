@@ -1,3 +1,30 @@
 C++ is a powerful, high-performance programming language developed by Bjarne Stroustrup in the early 1980s as an extension of the C language. It incorporates both procedural and object-oriented programming features, making it a versatile tool for a wide range of software development tasks. C++ enables developers to write code that is efficient and close to the hardware level, which is why it is widely used in systems programming, game development, real-time simulations, and performance-critical applications. It supports key concepts like classes, inheritance, polymorphism, and encapsulation, allowing for modular, reusable, and organized code structures.
 
 One of the standout features of C++ is its ability to blend low-level memory manipulation with high-level abstractions. This dual capability makes it ideal for both learning fundamental programming concepts and building complex software systems. The language also supports generic programming through templates, exception handling for robust error management, and the Standard Template Library (STL), which provides ready-to-use data structures and algorithms. C++ continues to evolve with modern features such as lambda expressions, smart pointers, and multithreading support, making it relevant in today's fast-paced software development environment.
+
+**Anatomy Of Hello World Program**
+---------------------------------------------------------------------------
+Program always start with the main method
+
+->#include <iostream> --> is a preprocessor directive used to include the contents of a file, typically a header file, into  program.
+->using namespace std; --> creating a differnt region  or space to run the program efficinetly.
+can also create userdefined namespaces. 
+2 ways to use like std::cin or using std::cout.
+
+->int main (){ return 0;} --> the method type here is int means it has to return 0 at the end of the program.
+
+**Variables and Constants**
+-----------------------------------------------------------------------------------
+
+Variables are the named unit of data that is assigned a value.
+const means constants values that cannot be changed one initialized 
+-> // --> for single line comments.
+-> /**/ -->for Multi line comments.
+
+
+
+
+
+
+
+
