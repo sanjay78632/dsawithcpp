@@ -50,6 +50,26 @@ enum
 class
 Typedef
 
+**Operators**
+----------------------------------------------------------------------------------------------------------
+Unary Operators
+Binary Operators
+Ternary Operators
+Conditional Operators
+
+Arithematic Operators  +,-,*,/,%.
+Assignment Operators +=,-=,*=,/=,%=.
+Relational Operators >=,<=,<,>.
+Logical Operators &&,||
+Bitwise Operators
+ https://bitwisecmd.com
+    
+
+
+
+ 
+
+
 
 
 
