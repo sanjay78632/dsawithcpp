@@ -89,6 +89,27 @@ Function Overloading is when multiple functions have the same name but different
 It helps to perform similar operations in different ways using one function name.
 
 
+Object Oriented Programming
+
+->Everything is an object.
+->main() fn can exist without any class
+ for reference :- https://www.stroustrup.com/oopsla.pdf
+
+Vector class in cpp
+->Vectors in C++ are part of the Standard Template Library (STL).
+  They are dynamic arrays that can resize themselves automatically when an element is inserted or deleted.
+
+Why use Vectors over Arrays?
+->Arrays have fixed size, vectors can grow or shrink.
+->Vectors provide built-in functions for easy element management.
+->Memory management is automatic in vectors.
+
+
+Access Modifiers in classes
+ Private:Members declared as private are accessible only within the same class.
+ Public:Members declared as public are accessible from outside the class.
+ Protected:Members declared as protected are accessible within the class and its derived classes.
+       
 
 
 
