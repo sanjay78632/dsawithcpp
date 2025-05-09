@@ -63,11 +63,30 @@ Relational Operators >=,<=,<,>.
 Logical Operators &&,||
 Bitwise Operators
  https://bitwisecmd.com
-    
 
 
-
+Functions
+-----------------------------------------------------------------------------------
+ Functions syntax
  
+ returnType functionName(parameters){
+        //fucntion body
+ }
+ //void type is also available that doesnot return anything  and parameters are alos not compulsory
+ 
+pass by value ad pass by reference explained
+>pass by value-> A copy of the variable is sent to the function, so the original value doesn’t change.
+>pass by reference->The actual variable is sent to the function, so changes affect the original value.
+
+
+ Global variable 
+Global Variable: A variable declared outside all functions and accessible from anywhere in the program.
+
+Scope: The part of the program where a variable can be used.
+
+Function Overloading
+Function Overloading is when multiple functions have the same name but different parameters (number or type).
+It helps to perform similar operations in different ways using one function name.
 
 
 
