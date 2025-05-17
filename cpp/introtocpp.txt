@@ -109,7 +109,25 @@ Access Modifiers in classes
  Private:Members declared as private are accessible only within the same class.
  Public:Members declared as public are accessible from outside the class.
  Protected:Members declared as protected are accessible within the class and its derived classes.
-       
+      
+By default every programming language works in Stack
+
+Arrays
+
+An Array is a collection of elements of the same data type, stored in contiguous memory locations, and accessed using an index.
+Types of Arrays
+1d arrays,2d arrays.3d arrays
+
+
+Pointers
+Variable that stores an address
+
+* for declaration
+& for reference
+
+New Keyword
+Dynamic Memory Allocation
+The new keyword in C++ is used for dynamic memory allocation, allowing you to allocate memory on the heap for objects and arrays.
 
 
 
